@@ -1,0 +1,9 @@
+title: "erratism[e]s"
+description: "Ошибки, сбои, выход из строя: заметки по динамике"
+theme: minima
+minima:
+  date_format: "%Y-%m-%d"
+url: "https://cloclacordis.github.io"
+baseurl: "/erratismes"
+show_excerpts: false
+lang: ru

@@ -1,0 +1,9 @@
+---
+layout: page
+title: De hoc
+permalink: /about/
+---
+
+Заметки распространяются по лицензии [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), если не указано иное. Сторонние материалы (включая изображения и фрагменты текстов) распространяются в соответствии с исходными условиями лицензирования.
+
+(C) 2026 [`@cloclacordis`](https://github.com/cloclacordis).

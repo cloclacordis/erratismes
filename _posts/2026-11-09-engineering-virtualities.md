@@ -27,5 +27,5 @@ title: "Новое в науке и новое в инженерии"
 
 ---
 
-discussions: https://github.com/cloclacordis/erratismes/discussions  
-e-mail: cloclacordis@proton.me
+discussions: [`https://github.com/cloclacordis/erratismes/discussions`](https://github.com/cloclacordis/erratismes/discussions)  
+e-mail: [`cloclacordis@proton.me`](cloclacordis@proton.me)

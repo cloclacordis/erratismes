@@ -43,5 +43,5 @@ RTC может располагать понятием секундного от
 
 ---
 
-discussions: https://github.com/cloclacordis/erratismes/discussions  
-e-mail: cloclacordis@proton.me
+discussions: [`https://github.com/cloclacordis/erratismes/discussions`](https://github.com/cloclacordis/erratismes/discussions)  
+e-mail: [`cloclacordis@proton.me`](cloclacordis@proton.me)
